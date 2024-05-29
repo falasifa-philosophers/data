@@ -1,0 +1,31 @@
+user_id: WeqBVaS1TSSRdtiR4j6bJm64Com2
+table: keywords
+data_type: item
+data_id: '9976925126232973'
+data:
+   info:
+      id: '9976925126232973'
+      word: A-proposition
+      word_original: ''
+      is_original_word: false
+      created_at: 2024-05-29T10:11:43+00:00
+      updated_at: 2024-05-29T10:11:43+00:00
+   philosophers: ''
+   literature: ''
+   relations:
+      -
+         id: '8614651219543424'
+         word: I-proposition
+         word_original: ''
+         is_original_word: false
+         word_list: ''
+         created_at: '2024-05-29T10:11:13.000000Z'
+         updated_at: '2024-05-29T10:11:13.000000Z'
+   transcriptions: ''
+   description: ''
+   tags: ''
+action_id: 021819c106da1c64bd0a2f83a6a44b34
+action: create
+date: '2024_05_29_101143110'
+version: '1.0'
+history_id: 231
