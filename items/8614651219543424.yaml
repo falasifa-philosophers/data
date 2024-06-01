@@ -8,16 +8,26 @@ data:
       word: I-proposition
       word_original: ''
       is_original_word: false
-      created_at: 2024-05-29T10:11:13+00:00
-      updated_at: 2024-05-29T10:11:13+00:00
+      word_list: ''
+      created_at: '2024-05-29T10:11:13.000000Z'
+      updated_at: '2024-05-29T10:11:13.000000Z'
    philosophers: ''
    literature: ''
-   relations: ''
+   relations:
+      -
+         id: '9976925126232973'
+         word: A-proposition
+         word_original: ''
+         is_original_word: false
+         word_list: ''
+         created_at: '2024-05-29T10:11:43.000000Z'
+         updated_at: '2024-05-29T10:11:43.000000Z'
+         relationId: 1
    transcriptions: ''
-   description: "The I-proposition is one of the four standard forms of categorical propositions. These propositions are used to express relationships between categories or classes of things. The four types of categorical propositions are denoted by the letters A, E, I, and O. Each type has a specific form and quantifier: 1.) A-proposition: Universal affirmative (e.g., \"All S are P\") 2.) E-proposition: Universal negative (e.g., \"No S are P\") 3.) I-proposition: Particular affirmative (e.g., \"Some S are P\") 4.) O-proposition: Particular negative (e.g., \"Some S are not P\")\nThe I-proposition specifically asserts that at least one member of the subject class (S) is also a member of the predicate class (P). It is characterized by the use of the quantifier \"some.\" For example, the statement \"Some dogs are friendly\" is an I-proposition because it claims that there is at least one dog that belongs to the category of friendly things."
+   description: "The I-proposition is one of the four standard forms of categorical propositions. These propositions are used to express relationships between categories or classes of things. The four types of categorical propositions are denoted by the letters A, E, I, and O. Each type has a specific form and quantifier:\n\t1.) A-proposition: Universal affirmative (e.g., \"All S are P\")\n\t2.) E-proposition: Universal negative (e.g., \"No S are P\")\n\t3.) I-proposition: Particular affirmative (e.g., \"Some S are P\")\n\t4.) O-proposition: Particular negative (e.g., \"Some S are not P\")\n\nThe I-proposition specifically asserts that at least one member of the subject class (S) is also a member of the predicate class (P). It is characterized by the use of the quantifier \"some.\" For example, the statement \"Some dogs are friendly\" is an I-proposition because it claims that there is at least one dog that belongs to the category of friendly things."
    tags: ''
-action_id: cb31a0c0fcf693b4db79a45690da73b7
-action: create
-date: '2024_05_29_101113359'
+action_id: f748d8a60e05186bfad998484a9c73a7
+action: update
+date: '2024_06_01_044617338'
 version: '1.0'
-history_id: 230
+history_id: 233
