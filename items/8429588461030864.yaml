@@ -8,26 +8,37 @@ data:
       word: subject
       word_original: ''
       is_original_word: false
-      created_at: 2024-06-03T16:57:31+00:00
-      updated_at: 2024-06-03T16:57:31+00:00
+      word_list: ''
+      created_at: '2024-06-03T16:57:31.000000Z'
+      updated_at: '2024-06-03T16:57:31.000000Z'
    philosophers: ''
    literature: ''
-   relations: ''
+   relations:
+      -
+         id: '0294237791652680'
+         word: predicate
+         word_original: ''
+         is_original_word: false
+         word_list: ''
+         created_at: '2024-06-03T16:58:39.000000Z'
+         updated_at: '2024-06-03T16:58:39.000000Z'
    transcriptions:
       -
          id: '34'
          code: de
          name: German
+         name_native: Deutsch
          word: Subjekt
       -
          id: '49'
          code: fr
          name: French
+         name_native: '"français, langue française"'
          word: sujet
    description: ''
    tags: ''
-action_id: 84186196c4e275f98deef943115f8d6d
-action: create
-date: '2024_06_03_165731075'
+action_id: aebc3148808cc62a146f1399289e5956
+action: update
+date: '2024_06_03_170511560'
 version: '1.0'
-history_id: 237
+history_id: 240
