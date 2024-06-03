@@ -8,8 +8,9 @@ data:
       word: love
       word_original: ''
       is_original_word: false
-      created_at: 2024-06-03T17:04:42+00:00
-      updated_at: 2024-06-03T17:04:42+00:00
+      word_list: ''
+      created_at: '2024-06-03T17:04:42.000000Z'
+      updated_at: '2024-06-03T17:04:42.000000Z'
    philosophers: ''
    literature: ''
    relations: ''
@@ -18,51 +19,60 @@ data:
          id: '34'
          code: de
          name: German
+         name_native: Deutsch
          word: Liebe
       -
          id: '38'
          code: el
          name: '"Greek, Modern"'
-         word: erōs
+         name_native: ελληνικά
+         word: ἔρως
       -
          id: '38'
          code: el
          name: '"Greek, Modern"'
-         word: philia
+         name_native: ελληνικά
+         word: φιλία
       -
          id: '38'
          code: el
          name: '"Greek, Modern"'
-         word: agapē
+         name_native: ελληνικά
+         word: ἀγάπη
       -
          id: '49'
          code: fr
          name: French
+         name_native: '"français, langue française"'
          word: amour
       -
          id: '76'
          code: ja
          name: Japanese
+         name_native: '日本語 (にほんご)'
          word: 愛
       -
          id: '76'
          code: ja
          name: Japanese
+         name_native: '日本語 (にほんご)'
          word: あい
       -
          id: '93'
          code: la
          name: Latin
+         name_native: '"latine, lingua latina"'
          word: amor
       -
          id: '93'
          code: la
          name: Latin
+         name_native: '"latine, lingua latina"'
          word: charitas
    description: ''
    tags: ''
-action_id: 45a5c24666ca869ad88b14a48807d2a6
-action: create
-date: '2024_06_03_170442706'
+action_id: 2998cf0875b768f919d14b931dc1d8df
+action: update
+date: '2024_06_03_171358957'
 version: '1.0'
-history_id: 239
+history_id: 242
