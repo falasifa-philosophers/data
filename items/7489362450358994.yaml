@@ -1,0 +1,68 @@
+user_id: WeqBVaS1TSSRdtiR4j6bJm64Com2
+table: keywords
+data_type: item
+data_id: '7489362450358994'
+data:
+   info:
+      id: '7489362450358994'
+      word: love
+      word_original: ''
+      is_original_word: false
+      created_at: 2024-06-03T17:04:42+00:00
+      updated_at: 2024-06-03T17:04:42+00:00
+   philosophers: ''
+   literature: ''
+   relations: ''
+   transcriptions:
+      -
+         id: '34'
+         code: de
+         name: German
+         word: Liebe
+      -
+         id: '38'
+         code: el
+         name: '"Greek, Modern"'
+         word: erōs
+      -
+         id: '38'
+         code: el
+         name: '"Greek, Modern"'
+         word: philia
+      -
+         id: '38'
+         code: el
+         name: '"Greek, Modern"'
+         word: agapē
+      -
+         id: '49'
+         code: fr
+         name: French
+         word: amour
+      -
+         id: '76'
+         code: ja
+         name: Japanese
+         word: 愛
+      -
+         id: '76'
+         code: ja
+         name: Japanese
+         word: あい
+      -
+         id: '93'
+         code: la
+         name: Latin
+         word: amor
+      -
+         id: '93'
+         code: la
+         name: Latin
+         word: charitas
+   description: ''
+   tags: ''
+action_id: 45a5c24666ca869ad88b14a48807d2a6
+action: create
+date: '2024_06_03_170442706'
+version: '1.0'
+history_id: 239
