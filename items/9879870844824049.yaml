@@ -1,0 +1,38 @@
+user_id: WeqBVaS1TSSRdtiR4j6bJm64Com2
+table: keywords
+data_type: item
+data_id: '9879870844824049'
+data:
+   info:
+      id: '9879870844824049'
+      word: patriotism
+      word_original: ''
+      is_original_word: false
+      created_at: 2024-06-03T17:17:47+00:00
+      updated_at: 2024-06-03T17:17:47+00:00
+   philosophers: ''
+   literature: ''
+   relations: ''
+   transcriptions:
+      -
+         id: '34'
+         code: de
+         name: German
+         word: Patriotismus
+      -
+         id: '34'
+         code: de
+         name: German
+         word: Vaterlandsliebe
+      -
+         id: '49'
+         code: fr
+         name: French
+         word: patriotisme
+   description: ''
+   tags: ''
+action_id: 1c95715cfb87eee8b9e70f1de741f2fa
+action: create
+date: '2024_06_03_17174746'
+version: '1.0'
+history_id: 243
