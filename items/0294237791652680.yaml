@@ -1,0 +1,33 @@
+user_id: WeqBVaS1TSSRdtiR4j6bJm64Com2
+table: keywords
+data_type: item
+data_id: '0294237791652680'
+data:
+   info:
+      id: '0294237791652680'
+      word: predicate
+      word_original: ''
+      is_original_word: false
+      created_at: 2024-06-03T16:58:39+00:00
+      updated_at: 2024-06-03T16:58:39+00:00
+   philosophers: ''
+   literature: ''
+   relations: ''
+   transcriptions:
+      -
+         id: '34'
+         code: de
+         name: German
+         word: Prädikat
+      -
+         id: '49'
+         code: fr
+         name: French
+         word: prédicat
+   description: ''
+   tags: ''
+action_id: 4d1f750645c6400a35722b67fa501bea
+action: create
+date: '2024_06_03_165839611'
+version: '1.0'
+history_id: 238
