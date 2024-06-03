@@ -1,0 +1,33 @@
+user_id: WeqBVaS1TSSRdtiR4j6bJm64Com2
+table: keywords
+data_type: item
+data_id: '8429588461030864'
+data:
+   info:
+      id: '8429588461030864'
+      word: subject
+      word_original: ''
+      is_original_word: false
+      created_at: 2024-06-03T16:57:31+00:00
+      updated_at: 2024-06-03T16:57:31+00:00
+   philosophers: ''
+   literature: ''
+   relations: ''
+   transcriptions:
+      -
+         id: '34'
+         code: de
+         name: German
+         word: Subjekt
+      -
+         id: '49'
+         code: fr
+         name: French
+         word: sujet
+   description: ''
+   tags: ''
+action_id: 84186196c4e275f98deef943115f8d6d
+action: create
+date: '2024_06_03_165731075'
+version: '1.0'
+history_id: 237
