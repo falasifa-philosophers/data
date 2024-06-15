@@ -1,0 +1,36 @@
+user_id: WeqBVaS1TSSRdtiR4j6bJm64Com2
+table: philosophers
+data_type: item
+data_id: '1373310364938186'
+data:
+   info:
+      id: '1373310364938186'
+      name: Engels
+      name_full: 'Friedrich Engels'
+      name_original: ''
+      is_original_name: false
+      name_list: ''
+      born: '1820'
+      born_date: 11/28
+      born_isUncertain: false
+      died: '1895'
+      died_date: 8/5
+      died_isUncertain: ''
+      gender: male
+      birthplace: ''
+      deathplace: ''
+      created_at: '2024-05-07T12:54:17.000000Z'
+      updated_at: '2024-05-07T12:54:17.000000Z'
+   image: ''
+   literature: ''
+   keywords: ''
+   tags:
+      languages: ''
+      nationalities: ''
+      categories: ''
+      education: ''
+action_id: 48e80cb52e9da1ab57590d8a6c98c069
+action: update
+date: '2024_06_15_075342509'
+version: '1.0'
+history_id: 246
