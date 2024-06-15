@@ -1,0 +1,36 @@
+user_id: WeqBVaS1TSSRdtiR4j6bJm64Com2
+table: philosophers
+data_type: item
+data_id: '9480168866221096'
+data:
+   info:
+      id: '9480168866221096'
+      name: Feuerbach
+      name_full: 'Ludwig Andreas Feuerbach'
+      name_original: ''
+      is_original_name: false
+      name_list: ''
+      born: '1804'
+      born_date: 7/28
+      born_isUncertain: false
+      died: '1872'
+      died_date: 9/13
+      died_isUncertain: ''
+      gender: male
+      birthplace: ''
+      deathplace: ''
+      created_at: '2024-05-07T12:54:17.000000Z'
+      updated_at: '2024-05-07T12:54:17.000000Z'
+   image: ''
+   literature: ''
+   keywords: ''
+   tags:
+      languages: ''
+      nationalities: ''
+      categories: ''
+      education: ''
+action_id: d1c065fc306a9f283faa8f977b496d83
+action: update
+date: '2024_06_15_075332236'
+version: '1.0'
+history_id: 245
