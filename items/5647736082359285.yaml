@@ -5,11 +5,11 @@ data_id: '5647736082359285'
 data:
    info:
       id: '5647736082359285'
-      name: 'Pierre de Ailly'
+      name: "Pierre d'Ailly"
       name_full: ''
       name_original: ''
-      name_list: ''
       is_original_name: false
+      name_list: ''
       born: '1350'
       born_date: ''
       born_isUncertain: false
@@ -19,8 +19,8 @@ data:
       gender: male
       birthplace: ''
       deathplace: ''
-      created_at: 2024-06-15T07:55:49+00:00
-      updated_at: 2024-06-15T07:55:49+00:00
+      created_at: '2024-06-15T07:55:49.000000Z'
+      updated_at: '2024-06-15T07:55:49.000000Z'
    image: ''
    literature: ''
    keywords: ''
@@ -29,8 +29,8 @@ data:
       nationalities: ''
       categories: ''
       education: ''
-action_id: 26ae9a44db913cd698ab7300d5608d29
-action: create
-date: '2024_06_15_075549239'
+action_id: 60574e16e47463c1a9181e2a5e308abb
+action: update
+date: '2024_06_15_085837378'
 version: '1.0'
-history_id: 248
+history_id: 250
