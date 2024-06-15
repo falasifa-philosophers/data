@@ -7,9 +7,9 @@ data:
       id: '0994648072969804'
       name: 'Aizawa Seishisai'
       name_full: ''
-      name_original: ''
-      name_list: ''
+      name_original: '會澤 正志齋'
       is_original_name: false
+      name_list: ''
       born: '1782'
       born_date: ''
       born_isUncertain: false
@@ -19,8 +19,8 @@ data:
       gender: male
       birthplace: ''
       deathplace: ''
-      created_at: 2024-06-15T07:57:36+00:00
-      updated_at: 2024-06-15T07:57:36+00:00
+      created_at: '2024-06-15T07:57:36.000000Z'
+      updated_at: '2024-06-15T07:57:36.000000Z'
    image: ''
    literature: ''
    keywords: ''
@@ -29,8 +29,8 @@ data:
       nationalities: ''
       categories: ''
       education: ''
-action_id: cfb789b2458c4ce574fa3fa95dbf674b
-action: create
-date: '2024_06_15_075736623'
+action_id: cf3826b9dfe5962cc4ecde1f5949737d
+action: update
+date: '2024_06_15_125348203'
 version: '1.0'
-history_id: 249
+history_id: 251
