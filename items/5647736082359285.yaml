@@ -1,0 +1,36 @@
+user_id: WeqBVaS1TSSRdtiR4j6bJm64Com2
+table: philosophers
+data_type: item
+data_id: '5647736082359285'
+data:
+   info:
+      id: '5647736082359285'
+      name: 'Pierre de Ailly'
+      name_full: ''
+      name_original: ''
+      name_list: ''
+      is_original_name: false
+      born: '1350'
+      born_date: ''
+      born_isUncertain: false
+      died: '1420'
+      died_date: ''
+      died_isUncertain: false
+      gender: male
+      birthplace: ''
+      deathplace: ''
+      created_at: 2024-06-15T07:55:49+00:00
+      updated_at: 2024-06-15T07:55:49+00:00
+   image: ''
+   literature: ''
+   keywords: ''
+   tags:
+      languages: ''
+      nationalities: ''
+      categories: ''
+      education: ''
+action_id: 26ae9a44db913cd698ab7300d5608d29
+action: create
+date: '2024_06_15_075549239'
+version: '1.0'
+history_id: 248
