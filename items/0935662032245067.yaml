@@ -1,0 +1,36 @@
+user_id: WeqBVaS1TSSRdtiR4j6bJm64Com2
+table: philosophers
+data_type: item
+data_id: '0935662032245067'
+data:
+   info:
+      id: '0935662032245067'
+      name: 'Aeschines of Sphettus'
+      name_full: ''
+      name_original: 'Αἰσχίνης Σφήττιος'
+      name_list: ''
+      is_original_name: false
+      born: ''
+      born_date: ''
+      born_isUncertain: false
+      died: ''
+      died_date: ''
+      died_isUncertain: false
+      gender: ''
+      birthplace: ''
+      deathplace: ''
+      created_at: 2024-06-15T12:58:42+00:00
+      updated_at: 2024-06-15T12:58:42+00:00
+   image: ''
+   literature: ''
+   keywords: ''
+   tags:
+      languages: ''
+      nationalities: ''
+      categories: ''
+      education: ''
+action_id: 55d658949efef3e1032bb2ace078514b
+action: create
+date: '2024_06_15_125842291'
+version: '1.0'
+history_id: 252
