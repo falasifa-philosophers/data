@@ -8,19 +8,20 @@ data:
       name: 'Aeschines of Sphettus'
       name_full: ''
       name_original: 'Αἰσχίνης Σφήττιος'
-      name_list: ''
       is_original_name: false
-      born: ''
+      name_list:
+         - 'Aeschines Socraticus'
+      born: '-425'
       born_date: ''
-      born_isUncertain: false
-      died: ''
+      born_isUncertain: true
+      died: '-350'
       died_date: ''
-      died_isUncertain: false
+      died_isUncertain: true
       gender: ''
       birthplace: ''
       deathplace: ''
-      created_at: 2024-06-15T12:58:42+00:00
-      updated_at: 2024-06-15T12:58:42+00:00
+      created_at: '2024-06-15T12:58:42.000000Z'
+      updated_at: '2024-06-15T12:58:42.000000Z'
    image: ''
    literature: ''
    keywords: ''
@@ -29,8 +30,8 @@ data:
       nationalities: ''
       categories: ''
       education: ''
-action_id: 55d658949efef3e1032bb2ace078514b
-action: create
-date: '2024_06_15_125842291'
+action_id: 39d06871001435ae2e48f5dc60c3e30f
+action: update
+date: '2024_06_18_171546013'
 version: '1.0'
-history_id: 252
+history_id: 253
