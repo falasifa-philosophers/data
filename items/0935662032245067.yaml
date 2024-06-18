@@ -17,11 +17,11 @@ data:
       died: '-350'
       died_date: ''
       died_isUncertain: true
-      gender: ''
+      gender: male
       birthplace: ''
       deathplace: ''
       created_at: '2024-06-15T12:58:42.000000Z'
-      updated_at: '2024-06-15T12:58:42.000000Z'
+      updated_at: '2024-06-18T17:15:46.000000Z'
    image: ''
    literature: ''
    keywords: ''
@@ -30,8 +30,8 @@ data:
       nationalities: ''
       categories: ''
       education: ''
-action_id: 39d06871001435ae2e48f5dc60c3e30f
+action_id: dc18564dda60b78e551414d9a585cb60
 action: update
-date: '2024_06_18_171546013'
+date: '2024_06_18_171602749'
 version: '1.0'
-history_id: 253
+history_id: 254
