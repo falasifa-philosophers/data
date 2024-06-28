@@ -1,0 +1,148 @@
+user_id: WeqBVaS1TSSRdtiR4j6bJm64Com2
+table: philosophers
+data_type: item
+data_id: '3128382692057869'
+data:
+   info:
+      id: '3128382692057869'
+      name: Kant
+      name_full: 'Immanuel Kant'
+      name_original: ''
+      is_original_name: false
+      name_list: ''
+      born: '1724'
+      born_date: 4/22
+      born_isUncertain: false
+      died: '1804'
+      died_date: 2/12
+      died_isUncertain: false
+      gender: male
+      birthplace: ''
+      deathplace: ''
+      created_at: '2024-05-07T12:54:17.000000Z'
+      updated_at: '2024-05-10T03:46:59.000000Z'
+   image: 3128382692057869_20240628095738.jpg
+   literature:
+      -
+         id: '7916099809508604'
+         title: 'Thoughts on the True Estimation of Living Forces'
+      -
+         id: '6739750560361916'
+         title: 'Universal Natural History and Theory of the Heavens'
+      -
+         id: '5008054908335206'
+         title: 'Brief Outline of Certain Meditations on Fire'
+      -
+         id: '6661754825052875'
+         title: 'A New Elucidation of the First Principles of Metaphysical Cognition'
+      -
+         id: '4261096682188044'
+         title: 'The Use in Natural Philosophy of Metaphysics Combined with Geometry, Part I: Physical Monadology'
+      -
+         id: '4445208653252026'
+         title: 'The False Subtlety of the Four Syllogistic Figures'
+      -
+         id: '9900841986330691'
+         title: 'The Only Possible Argument in Support of a Demonstration of the Existence of God'
+      -
+         id: '0578280777208212'
+         title: 'Attempt to Introduce the Concept of Negative Magnitudes into Philosophy'
+      -
+         id: '3003777337216237'
+         title: 'Observations on the Feeling of the Beautiful and Sublime'
+      -
+         id: '3051764417328175'
+         title: 'Essay on the Illness of the Head'
+      -
+         id: '3206017202979896'
+         title: 'Inquiry Concerning the Distinctness of the Principles of Natural Theology and Morality'
+      -
+         id: '9622373658073169'
+         title: 'Dreams of a Spirit-Seer'
+      -
+         id: '8118756896850710'
+         title: 'On the Ultimate Ground of the Differentiation of Regions in Space'
+      -
+         id: '2849585091945253'
+         title: 'Dissertation on the Form and Principles of the Sensible and the Intelligible World'
+      -
+         id: '7420479995939485'
+         title: 'On the Different Races of Man'
+      -
+         id: '9313747397812623'
+         title: 'First edition of the Critique of Pure Reason'
+      -
+         id: '0883312461015748'
+         title: 'Prolegomena to Any Future Metaphysics [PFM]'
+      -
+         id: '5404841780856546'
+         title: 'An Answer to the Question: What Is Enlightenment?'
+      -
+         id: '7811153377323671'
+         title: 'Idea for a Universal History with a Cosmopolitan Purpose'
+      -
+         id: '8952223374630862'
+         title: 'Determination of the Concept of a Human Race'
+      -
+         id: '8656330195114156'
+         title: 'Groundwork of the Metaphysics of Morals'
+      -
+         id: '5634442063049270'
+         title: 'Metaphysical Foundations of Natural Science'
+      -
+         id: '8749323308368854'
+         title: 'What does it mean to orient oneself in thinking?'
+      -
+         id: '6187508265528855'
+         title: 'Conjectural Beginning of Human History'
+      -
+         id: '9328576389679453'
+         title: 'Second edition of the Critique of Pure Reason'
+      -
+         id: '6359283606444499'
+         title: 'Critique of Practical Reason'
+      -
+         id: '1632927823813159'
+         title: 'Critique of Judgment'
+      -
+         id: '2908797601070968'
+         title: 'Religion within the Bounds of Bare Reason'
+      -
+         id: '1229099257336566'
+         title: "On the Old Saw: That May be Right in Theory But It Won't Work in Practice"
+      -
+         id: '6737581042419000'
+         title: 'Perpetual Peace: A Philosophical Sketch'
+      -
+         id: '7848958039127556'
+         title: 'Metaphysics of Morals'
+      -
+         id: '7294223524018622'
+         title: 'Anthropology from a Pragmatic Point of View'
+      -
+         id: '7259351375022656'
+         title: 'Conflict of Faculties'
+      -
+         id: '3374311587719705'
+         title: Logic
+      -
+         id: '5928362402857338'
+         title: 'On Pedagogy'
+      -
+         id: '0863525166616608'
+         title: 'Opus Postumum'
+      -
+         id: '7771173374320821'
+         title: "Lectures on Philosophical Theology,The English edition of A.W. Wood & G.M. Clark (Cornell, 1978) is based on Pölitz' second edition, 1830, of these lectures."
+   keywords: ''
+   tags:
+      languages:
+         - { id: '34', name: German }
+      nationalities: ''
+      categories: ''
+      education: ''
+action_id: 59fe5029a6c8d045445980a9f6fc3a55
+action: update
+date: '2024_06_28_005741405'
+version: '1.0'
+history_id: 259
