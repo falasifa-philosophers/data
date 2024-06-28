@@ -1,0 +1,38 @@
+user_id: WeqBVaS1TSSRdtiR4j6bJm64Com2
+table: philosophers
+data_type: item
+data_id: '0037739761947035'
+data:
+   info:
+      id: '0037739761947035'
+      name: 'Johannes Eckhart'
+      name_full: ''
+      name_original: ''
+      name_list:
+         - 'Meister Eckhart'
+         - 'Eckhart von Hochheim'
+      is_original_name: false
+      born: '1260'
+      born_date: ''
+      born_isUncertain: true
+      died: '1328'
+      died_date: ''
+      died_isUncertain: true
+      gender: ''
+      birthplace: ''
+      deathplace: ''
+      created_at: 2024-06-28T00:42:48+00:00
+      updated_at: 2024-06-28T00:42:48+00:00
+   image: ''
+   literature: ''
+   keywords: ''
+   tags:
+      languages: ''
+      nationalities: ''
+      categories: ''
+      education: ''
+action_id: abbd84bfb4afa08398b22b42df31685f
+action: create
+date: '2024_06_28_004248454'
+version: '1.0'
+history_id: 256
