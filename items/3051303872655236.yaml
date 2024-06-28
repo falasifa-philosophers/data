@@ -7,11 +7,11 @@ data:
       id: '3051303872655236'
       word: aeon
       word_original: ''
+      is_original_word: false
       word_list:
          - eon
-      is_original_word: false
-      created_at: 2024-06-15T07:52:39+00:00
-      updated_at: 2024-06-15T07:52:39+00:00
+      created_at: '2024-06-15T07:52:39.000000Z'
+      updated_at: '2024-06-15T07:52:39.000000Z'
    philosophers: ''
    literature: ''
    relations: ''
@@ -20,16 +20,18 @@ data:
          id: '38'
          code: el
          name: '"Greek, Modern"'
+         name_native: ελληνικά
          word: αἰών
       -
          id: '93'
          code: la
          name: Latin
-         word: aiōn
+         name_native: '"latine, lingua latina"'
+         word: 'æon, aeon'
    description: ''
    tags: ''
-action_id: 4fff1338d7765865f86a3dce89c7a5c2
-action: create
-date: '2024_06_15_075239093'
+action_id: 9b1d3a034d32b29c36c3eb4f32e3e1c0
+action: update
+date: '2024_06_28_010221917'
 version: '1.0'
-history_id: 244
+history_id: 263
