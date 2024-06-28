@@ -8,10 +8,10 @@ data:
       name: 'Johannes Eckhart'
       name_full: ''
       name_original: ''
+      is_original_name: false
       name_list:
          - 'Meister Eckhart'
          - 'Eckhart von Hochheim'
-      is_original_name: false
       born: '1260'
       born_date: ''
       born_isUncertain: true
@@ -21,9 +21,9 @@ data:
       gender: ''
       birthplace: ''
       deathplace: ''
-      created_at: 2024-06-28T00:42:48+00:00
-      updated_at: 2024-06-28T00:42:48+00:00
-   image: ''
+      created_at: '2024-06-28T00:42:48.000000Z'
+      updated_at: '2024-06-28T00:42:48.000000Z'
+   image: 0037739761947035_20240628095658.jpg
    literature: ''
    keywords: ''
    tags:
@@ -31,8 +31,8 @@ data:
       nationalities: ''
       categories: ''
       education: ''
-action_id: abbd84bfb4afa08398b22b42df31685f
-action: create
-date: '2024_06_28_004248454'
+action_id: 00a803ce7ddaa296d78a39af9dd86193
+action: update
+date: '2024_06_28_005709425'
 version: '1.0'
-history_id: 256
+history_id: 257
